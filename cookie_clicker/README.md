@@ -10,6 +10,9 @@ Then run the following commands
 cd dailydeed
 ```
 ```
+cd cookie_clicker
+```
+```
 npm install
 ```
 ```

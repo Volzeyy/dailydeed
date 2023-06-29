@@ -10,7 +10,7 @@ fn main() {
     }
 
     if coin_flip > 0.5 {
-        std::println!("Coin");
+        std::println!("Heads");
         return;
     };
 
